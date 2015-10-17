@@ -1,0 +1,1 @@
+# refluxjs-aggregate-store-pattern
