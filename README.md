@@ -3,6 +3,7 @@
 This is a pattern for creating aggregate stores in refluxjs.
 
 * Parent store state has a property that references the child store state
+  * This is a reference, not a copy
 * Parent store listens for child store trigger events
 * Child passes entire state when triggering
 
