@@ -45,4 +45,4 @@ var ChildStore = Reflux.createStore({
 ```
 
 ## Example
-[Shopping cart example](http://codepen.io/anon/pen/xwPEMe?editors=001#0)
+[Shopping cart example](http://codepen.io/anon/pen/xwPEMe)
